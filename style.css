@@ -1,0 +1,38 @@
+.momo-signature-regular {
+    font-family: "Momo Signature", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+.cover-page{
+  background-image: url('./assets/images/dry-twigs-bark.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+
+}
+  
+.google-sans-code {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.profile{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    
+}
+
+.lead{
+    font-size: 1.25rem;
+    font-weight: 400;
+    text-align: center;
+}
+  
+.skills{
+    text-align: center;
+}
+
+
